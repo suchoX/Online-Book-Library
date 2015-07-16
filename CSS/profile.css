@@ -1,0 +1,130 @@
+#table_top {
+    border-radius: 25px;
+    background: #3399FF;
+    padding: 2px;
+    width: 100%;
+}
+
+#search {
+	border-radius: 10px;
+	border: none;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.2) inset, 0 -1px 0 rgba(0,0,0,0.05) inset;
+	transition: all 0.2s linear;
+	font-family: "Helvetica Neue", sans-serif;
+	font-size: 13px;
+	color: #222222;
+	position: relative;
+	height: 30px;
+	width: 300px;
+	padding-left: 8px; 
+	vertical-align: right;  
+}
+
+#button {
+    border-radius: 25px;
+    background: #FFFFFF;
+    padding: 3px;
+    width: 70px;
+	border: none;
+}
+
+#profile_info {
+    background: #C2185B;
+    margin-left:auto;
+    margin-right:auto;
+    width: 95%;
+    height: 40%;
+}
+
+#menu {
+    background: #C2185B;
+    margin-left:auto;
+    margin-right:auto;
+    width: 90%;
+    height: 20%;
+    text-align: center;
+}
+
+#settings {
+    background: #3399FF;
+    margin-left:auto;
+    width: 70%;
+    height: 20%;
+    text-align: center;
+}
+
+#dp{
+	width:85%;
+	height:70%;
+	box-shadow: 0 14px 28px rgba(0,0,0,0.7), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+#circle {
+	text-align:center;
+	vertical-align: center;
+    margin-left:auto;
+    margin-right:auto;
+	border-radius:50%;
+	color: #FFFFFF;
+	font-family: "Arial";
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+p.circle
+{
+	width:130px;
+	height:80px;
+	font-size: 1.5em;
+    padding-top: 50px;
+    background: #3399FF;
+}
+
+p.circle:hover
+{
+    background: #259b24;
+}
+
+table.top{
+	background-color: #3399FF;
+	text-align: left;
+	font-size: 1.2em;
+	font-family: "Arial";
+	color: #FFFFFF;
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+button{
+	background-color: #C2185B;
+	border-style:none;
+	font-size: 1.2em;
+	font-family: "Arial";
+	color: #FFFFFF;border: none;
+}
+
+button:hover{
+	color: #3399FF;
+}
+button:active{
+	border-style:none;
+	border:none;
+}
+
+
+.center{
+	text-align: center;
+	float: center;
+	font-style: bold;
+}
+
+a{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #C2185B;
+}
+
+body {
+    background-color: #EDEDED;
+}

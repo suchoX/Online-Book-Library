@@ -1,0 +1,136 @@
+#rcorners_table_top {
+    border-radius: 25px;
+    background: #3399FF;
+    padding: 2px;
+    width: 100%;
+}
+
+#rcorners_right_div {
+    background: #9c27b0;
+	font-size: 1.5em;
+	color: #FFFFFF;
+    padding: 5px;
+	font-family: "Arial";
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+#rcorners_right_div_circle {
+	text-align:center;
+	vertical-align: center;
+    margin-left:auto;
+    margin-right:auto;
+	border-radius:50%;
+	color: #FFFFFF;
+	font-family: "Arial";
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+#rcorners_img{
+	height:95%;
+	width:95%;
+	box-shadow: 0 14px 28px rgba(0,0,0,0.7), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+#rcorners_book_info {
+    background: #3399FF;
+    margin-left:auto;
+    margin-right:auto;
+    width: 90%;
+}
+
+#rcorners_book_title {
+    background: #3399FF;
+    margin-left:auto;
+    margin-right:auto;
+	color: #FFFFFF;
+	width:60%;
+}
+
+#rcorners_search {
+	border-radius: 10px;
+	border: none;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.2) inset, 0 -1px 0 rgba(0,0,0,0.05) inset;
+	transition: all 0.2s linear;
+	font-family: "Helvetica Neue", sans-serif;
+	font-size: 13px;
+	color: #222222;
+	position: relative;
+	height: 30px;
+	width: 300px;
+	padding-left: 8px; 
+	vertical-align: right;  
+}
+
+#rcorners_button {
+    border-radius: 25px;
+    background: #FFFFFF;
+    padding: 3px;
+    width: 70px;
+	border: none;
+}
+
+table.top{
+	background-color: #3399FF;
+	text-align: left;
+	font-size: 1.2em;
+	font-family: "Arial";
+	color: #FFFFFF;
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.right{
+	float: right;
+	vertical-align: right;
+
+}
+
+.center{
+	text-align: center;
+	float: center;
+	font-style: bold;
+}
+
+h6{
+	color: #3399FF;
+	text-transform: uppercase;
+	font-style: bold;
+	font-size: 3em;
+    padding-top: 100px;
+	font-family: "Arial";
+	text-align: center;
+}
+
+.bookname{
+	font-style: bold;
+	font-size: 2em;
+	font-family: "Arial";
+	text-align: center;
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+a{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #C2185B;
+}
+
+p.circle
+{
+	width:130px;
+	height:80px;
+	font-size: 1.5em;
+    padding-top: 50px;
+    background: #C2185B;
+}
+
+p.circle:hover
+{
+    background: #259b24;
+}
+
+body {
+    background-color: #EDEDED;
+}
