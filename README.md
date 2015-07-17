@@ -16,3 +16,18 @@ Features-
 11. If Return Date of any issued books is reached, The admin will be notified.
 12. Admin can Add New Book, Add Author Info, Dispatch Requested Books, Attend to Return request, Attend to 'Out of Stock' Books and Add Copies of Library Books from the Admin panel-> ../admin/admin.html
 
+
+Incomplete Points-
+
+1. As of Now, +Library automatically adds the book to library. Admin Intervention has to be introduced.
+2. From above, featurea 10 and 11 is missing.
+3. Making Profile Changes is not possible as of now.
+
+
+Notes-
+
+1. Oracle 11g Express Edition has been used for database.
+2. Apache Tomcat was used to run this project. You can follow the steps here to set up Apache Tomcat. http://www.ntu.edu.sg/home/ehchua/programming/howto/Tomcat_HowTo.html
+3. Place the project in directory- C:\apache-tomcat-8.0.23\webapps\ROOT\, an place the contents of 'Bean' folder in C:\apache-tomcat-8.0.23\webapps\ROOT\WEB-INF\classes (Create Directory if not present).
+4. JDBC and J2EE is required for running the project.
+
